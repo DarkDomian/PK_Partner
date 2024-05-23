@@ -1,0 +1,12 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+/* @media screen and (max-width: 600px){
+    img[alt="Tella Logo"] {
+        width: 20%;
+    }
+    a[href="{{.Site.Params.baseURL}}"] {
+        width: 20%;
+    }
+} */
